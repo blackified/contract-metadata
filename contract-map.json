@@ -2452,5 +2452,12 @@
     "erc20": true,
     "symbol": "ROUTE",
     "decimals":18
+  },
+  "0x962de01ae0260c4db3c69fae91b689a558c0d6e3": {
+    "name": "Melanin",
+    "logo": "Melanin.png",
+    "erc20": true,
+    "symbol": "MEL"
+    "decimals": 2
   }
 }
