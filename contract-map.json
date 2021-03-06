@@ -2457,7 +2457,7 @@
     "name": "Melanin",
     "logo": "Melanin.png",
     "erc20": true,
-    "symbol": "MEL"
+    "symbol": "MEL",
     "decimals": 2
   }
 }
